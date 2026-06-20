@@ -1,0 +1,6 @@
+from sample_gaze_data import sample_gaze_data
+from attention_score import generate_attention_score, print_attention_report
+
+
+results = generate_attention_score(sample_gaze_data)
+print_attention_report(results)
