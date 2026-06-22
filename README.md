@@ -173,6 +173,59 @@ The project may use the following technologies:
 
 ---
 
+## How to Run the Application
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Anukuga/ADHD-Gaze-Tracking-System.git
+cd ADHD-Gaze-Tracking-System
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv .venv
+```
+
+### 3. Activate the Virtual Environment
+
+Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+### 4. Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Start the Application
+
+```bash
+python main.py
+```
+
+### Application Workflow
+
+1. Launch the application using `python main.py`.
+2. Click **Start Session**.
+3. The webcam window will open and begin gaze tracking.
+4. Complete the gaze tracking session.
+5. Press **q** to close the webcam window and end the session.
+6. Click **Analyze Results**.
+7. The dashboard will display the attention score and attention metrics.
+
+### Requirements
+
+* Python 3.10 or newer
+* Webcam
+* Windows operating system (recommended)
+
+---
+
 # Future Improvements
 
 Future versions of the system may include:
