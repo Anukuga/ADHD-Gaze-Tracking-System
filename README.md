@@ -36,7 +36,7 @@ Healthcare Professional
 
 The project follows a modular architecture where each component is developed independently and integrated into a complete system.
 
-## 1. Gaze Tracking Module (Person 1)
+## 1. Gaze Tracking Module (Temitope Blessing Abejide)
 
 Responsible for capturing and processing eye movement data.
 
@@ -57,7 +57,7 @@ gaze_tracking/
 
 ---
 
-## 2. Attention Analysis Module (Person 2)
+## 2. Attention Analysis Module (Anusuya Kugavarathan)
 
 Responsible for converting raw gaze data into meaningful ADHD-related attention metrics.
 
@@ -91,7 +91,7 @@ Gaze Stability: Low
 
 ---
 
-## 3. User Interface & Dashboard Module (Person 3)
+## 3. User Interface & Dashboard Module (Mona Sarhan)
 
 Responsible for displaying the results in a simple and understandable format.
 
@@ -153,9 +153,9 @@ The project may use the following technologies:
 
 | Team Member | Role |
 |------------|------|
-| Person 1 | Gaze Tracking & Camera Module |
-| Person 2 | Attention Analysis & ADHD Metrics |
-| Person 3 | User Interface & Results Dashboard |
+| Temitope Blessing Abejide | Gaze Tracking & Camera Module |
+| Anusuya Kugavarathan | Attention Analysis & ADHD Metrics |
+| Mona Sarhan | User Interface & Results Dashboard |
 | Muhammad Ahmed Shahab | Documentation, Integration & Testing |
 
 ---
