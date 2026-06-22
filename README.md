@@ -108,7 +108,7 @@ ui/
 
 ---
 
-## 4. Documentation & Integration Module (Person 4)
+## 4. Documentation & Integration Module (Muhammad Ahmed Shahab)
 
 Responsible for connecting project components and maintaining documentation.
 
@@ -156,7 +156,7 @@ The project may use the following technologies:
 | Person 1 | Gaze Tracking & Camera Module |
 | Person 2 | Attention Analysis & ADHD Metrics |
 | Person 3 | User Interface & Results Dashboard |
-| Person 4 | Documentation, Integration & Testing |
+| Muhammad Ahmed Shahab | Documentation, Integration & Testing |
 
 ---
 
@@ -166,10 +166,10 @@ The project may use the following technologies:
 - [x] System architecture designed
 - [x] Project folders organized
 - [x] Attention analysis prototype completed
-- [ ] Gaze tracking implementation
-- [ ] UI dashboard implementation
-- [ ] Full system integration
-- [ ] Testing with real gaze data
+- [x] Gaze tracking implementation
+- [x] UI dashboard implementation
+- [x] Full system integration
+- [x] Testing with real gaze data
 
 ---
 
