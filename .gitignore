@@ -2,3 +2,7 @@ venv/
 __pycache__/
 gaze_data.csv
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+gaze_data.csv

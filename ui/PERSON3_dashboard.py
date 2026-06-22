@@ -187,9 +187,13 @@ class ADHDGazeDashboard(tk.Tk):
             # Run Person 1's script as a separate process.
             # We wait for it to finish (blocking) since the user controls
             # when it ends by pressing 'q' in the OpenCV window.
+            # Delete old CSV before starting a new session
+            if os.path.exists(CSV_PATH):
+                os.remove(CSV_PATH)
+
             subprocess.run(
                 [sys.executable, GAZE_SCRIPT],
-                cwd=GAZE_TRACKING_DIR,
+                cwd=PROJECT_ROOT,
                 check=True
             )
             self.session_ran = True
